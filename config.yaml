@@ -8,7 +8,7 @@ chat:
   vi_mode: false
   visible_overflow: true
 general:
-  log_level: INFO
+  log_level: DEBUG
 generate:
   chunk_word_count: 1000
   model: models/Meta-Llama-3-8B-Instruct.Q4_K_M.gguf
